@@ -1,13 +1,17 @@
 # DS200_book_recommendation_system
 Phong Lai Bao Minh1*, Bui Nguyen Phuong Linh1† and Le
 Tuan Cuong1†
+
 1*VNUHCM - University of Information Technology,VietNam.
+
 *Corresponding author(s). E-mail(s): 20522217@gm.uit.edu.vn;
 Contributing authors: 20521527@gm.uit.edu.vn;
 20520146@gm.uit.edu.vn;
+
 †These authors contributed equally to this work.
 
 Abstract
+
 This study focuses on exploring methods for building a book recom-
 mendation system based on large-scale data from Amazon Review Data,
 including content-based filtering, collaborative filtering, and keyword-
@@ -21,6 +25,7 @@ Keywords: content-based filtering, collaborative filtering, keyword-based
 recommendation approach
 
 1 Introduction
+
 Technology nowadays has a powerful impact on how we access information
 and cultural content, including the way we approach reading books. Gradu-
 ally, in various ways, technology is replacing or influencing individual reading
@@ -59,6 +64,7 @@ ther advancing the field of book recommendation systems in the current era
 of technology.
 
 2 Data
+
 For this project, we utilized the Book Dataset from Amazon Review Data
 (2018)Amazon Review Data (2018), which includes various aspects of reviews
 such as ratings, text, and helpful votes, as well as product metadata containing
